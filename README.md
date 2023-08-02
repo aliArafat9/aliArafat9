@@ -20,12 +20,12 @@
 
 <br>
 
-![Shashwat's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=stp2003&show_icons=true&theme=tokyonight&border_radius=7.6)
+![Shashwat's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=aliArafat9&show_icons=true&theme=tokyonight&border_radius=7.6)
 
 
 <br>
 
-![Shashwat's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stp2003&theme=tokyonight&border_radius=7.6)
+![Shashwat's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliArafat9&theme=tokyonight&border_radius=7.6)
 
 
 <br/>
