@@ -6,13 +6,13 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;%20DS%20|%20Algorithms%20|%20JAVA%20|%20Cpp%20|%20Python;%20Android%20App%20Developer%20|%20Flutter%20Developer;Division%203%20on%20Codechef%20(2%20Stars);Always%20learning%20new%20things&center=true&width=550&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;%20DS%20|%20Algorithms%20|%20JAVA%20|%20Python;%20Web%20App%20Developer%20|%20MERN%20Developer;Division%203%20on%20Codechef%20(2%20Stars);Always%20learning%20new%20things&center=true&width=550&height=50"></a>
 </p>
 
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stp2003&label=Profile%20views&color=0e75b6&style=flat" alt="stp2003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliArafat9&label=Profile%20views&color=0e75b6&style=flat" alt="aliArafat9" /> </p>
 
 <img align="centre" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
