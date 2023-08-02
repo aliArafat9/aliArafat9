@@ -12,7 +12,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliArafat9&label=Profile%20views&color=0e75b6&style=flat" alt="stp2003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stp2003&label=Profile%20views&color=0e75b6&style=flat" alt="stp2003" /> </p>
 
 <img align="centre" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -20,19 +20,19 @@
 
 <br>
 
-![Shashwat's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=aliArafat9&show_icons=true&theme=tokyonight&border_radius=7.6)
+![Shashwat's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=stp2003&show_icons=true&theme=tokyonight&border_radius=7.6)
 
 
 <br>
 
-![Shashwat's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliArafat9&theme=tokyonight&border_radius=7.6)
+![Shashwat's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stp2003&theme=tokyonight&border_radius=7.6)
 
 
 <br/>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aliArafat9&theme=onedark)](https://github.com/stp2003/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=stp2003&theme=onedark)](https://github.com/aliArafat9/github-profile-trophy)
 
 <br>
 
@@ -63,11 +63,11 @@
 
 # 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=aliArafat9&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/stp2003/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=stp2003&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/aliArafat9/github-readme-stats) <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliArafat9&theme=tokyonight&border_radius=7.6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stp2003&theme=tokyonight&border_radius=7.6)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliArafat9&theme=tokyonight&border_radius=7.6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stp2003&theme=tokyonight&border_radius=7.6)
 
 <br>
 
