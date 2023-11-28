@@ -72,8 +72,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliArafat9&theme=tokyonight&border_radius=7.6)
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliArafat9&theme=tokyonight&border_radius=7.6)
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliArafat9&theme=tokyonight&border_radius=7.6)
+
 <br>
 
 
