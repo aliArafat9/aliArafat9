@@ -59,8 +59,14 @@
 <br>
 
 # 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=aliArafat9&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/aliArafat9/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=aliArafat9&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/aliArafat9/github-readme-stats)
+
+<br>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliArafat9&theme=tokyonight&border_radius=7.6)
+
+<br>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliArafat9&theme=tokyonight&border_radius=7.6)
 
 <br>
