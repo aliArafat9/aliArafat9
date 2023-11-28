@@ -18,6 +18,10 @@
 
 <br>
 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=8.0)
+
 <br>
 
 ![Shashwat's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=aliArafat9&show_icons=true&theme=tokyonight&border_radius=7.6)
@@ -52,6 +56,7 @@
 <a href="https://www.hackerrank.com/arfatakbar090?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arfatakbar090" height="30" width="40" /></a>
 <a href="https://leetcode.com/arfatakbar090/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arfatakbar090" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arfat/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arfat" height="30" width="40" /></a>
+<a href="https://instagram.com/ali.arafat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali.arafat_" height="30" width="40" /></a>
 </p>
 
 <br>
