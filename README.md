@@ -1,4 +1,4 @@
-![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <h1 align="center"><b>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Arafat Ali</b></h1>
 
