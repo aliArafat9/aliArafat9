@@ -32,7 +32,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=stp2003&theme=onedark)](https://github.com/aliArafat9/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aliArafat9&theme=onedark)](https://github.com/aliArafat9/github-profile-trophy)
 
 <br>
 
