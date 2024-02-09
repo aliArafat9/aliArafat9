@@ -136,6 +136,9 @@
 ## 💡 Leetcode Statistics
 ![](https://leetcard.jacoblin.cool/arfatakbar090?ext=activity)
 
+## 💡 Gfg Statistics
+[![Arafat's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<arfat>)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+
 <br>
 
 # 📊 GitHub Contribution Graph:
