@@ -136,8 +136,9 @@
 ## 💡 Leetcode Statistics
 ![](https://leetcard.jacoblin.cool/arfatakbar090?ext=activity)
 
+
 ## 💡 Gfg Statistics
-[![Arafat's geeksForgeeks stats]([![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=arfat)](https://auth.geeksforgeeks.org/user/arfat))
+[![Arafat's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=arfat)](https://auth.geeksforgeeks.org/user/arfat)
 
 <br>
 
