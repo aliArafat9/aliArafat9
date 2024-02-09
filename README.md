@@ -134,7 +134,7 @@
 <br>
 
 ## 💡 Leetcode Statistics
-![](https://leetcard.jacoblin.cool/aliArafat9?ext=heatmap)](https://leetcode.com/arfatakbar090/)
+![](https://leetcard.jacoblin.cool/arfatakbar090?ext=activity)
 
 <br>
 
