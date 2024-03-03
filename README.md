@@ -40,9 +40,9 @@
 
 <br>
 
-- 🔭 I’m currently working on breakup patchup process through Singhroli, and my tech stack are completing java till november 2022
-- 🌱 I’m currently learning *how to move on and not running behind breakup and Screen is black but ok*
-- 👨‍💻 All of my projects are available at Astha Cwhore [https://github.com/aliArafat9](https://github.com/aliArafat9)
+- 🔭 I’m currently working on Web Development.
+- 🌱 I’m currently learning *DSA*
+- 👨‍💻 All of my projects are available at [https://github.com/aliArafat9](https://github.com/aliArafat9)
 
 <br>
 
