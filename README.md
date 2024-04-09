@@ -13,7 +13,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;%20DS%20|%20Algorithms%20|%20JAVA%20;%20Web%20App%20Developer%20|%20MERN%20Developer;Always%20learning%20new%20things&center=true&width=550&height=50">
  </a>
 </p>
-
 <br>
 
 <p align="left">
