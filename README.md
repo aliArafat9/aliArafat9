@@ -41,7 +41,7 @@
 <br>
 
 - 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning *DSA*
+- 🌱 I’m currently learning *DSA* using Java.
 - 👨‍💻 All of my projects are available at [https://github.com/aliArafat9](https://github.com/aliArafat9)
 
 <br>
